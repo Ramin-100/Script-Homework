@@ -1,2 +1,9 @@
 # Script-Homework
-چهار اسکریپت ساده به زبان Bash که برای تمرین کلاسی نوشتم.  🟢 اسکریپت اول: گرفتن سال تولد کاربر و محاسبه‌ی سن 🌐 اسکریپت دوم: تبدیل نام دامنه به آدرس IP 🔄 اسکریپت سوم: تبدیل آدرس IP به نام دامنه 📡 اسکریپت چهارم: بررسی اتصال به دامنه یا IP  این تمرین‌ها کمکم کردند درک عمیق‌تری از دستورات ترمینال، ورودی/خروجی در Bash و کار با شبکه پیدا کنم.
+Four Simple bash script that I wrote for class exercises.
+Script 1: Get user's brith year and calculate age.
+Script 2: Convert domain name to IP address
+Script 3: Convert IP address to domain name
+Script 4: Check connectivity to domain or IP
+
+These exercise helped me gain a deeper understanding of terminal commands, input/output in bash, and networking
+
